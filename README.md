@@ -4,7 +4,7 @@
 
 ## Description
 
-This application was provided as a fully functioning Google Books API search engine built with a RESTful API. It has been refactored to now use a GraphQL API built with Apollo Server. The app was built using the MERN stack with a React front end, MongoDB database, and Node.js/Express.js server and API. It allows users to save book searches to the back end. 
+This application was provided as a fully functioning Google Books API search engine built with a RESTful API. It has been refactored to now use a GraphQL API built with Apollo Server. The app was built using the MERN stack with a React front end, MongoDB database, and Node.js/Express.js server and API. It allows users to save book searches to the back end.
 
 Link to the Heroku application for "Google Book Engine": [view app](https://agile-anchorage-64986.herokuapp.com/).
 
@@ -43,14 +43,9 @@ If this project is of interest to you, please contact me with a detailed descrip
 
 ## Credits
 
-
 https://www.npmjs.com/package/nodemon
 
 https://www.npmjs.com/package/express-session
-
-https://www.npmjs.com/package/dotenv
-
-https://www.npmjs.com/package/connect-session-sequelize
 
 https://www.mongodb.com/
 
@@ -72,5 +67,3 @@ If you have any questions or require further clarification then please contact m
 
 - https://github.com/Shelbyrp/
 - shelby.pignat@gmail.com
-
-
